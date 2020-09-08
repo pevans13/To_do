@@ -1,0 +1,36 @@
+---
+title: "To do list"
+author: "P. M. Evans"
+date: "`r format(Sys.time(), '%d/%m/%y')`"
+output: html_document
+bibliography: E:/CEH/Literature/library.bib
+urlcolor: purple
+header-includes:
+  - \usepackage{placeins}
+fig_caption: yes
+link-citations: yes
+---
+
+\clearpage
+\tableofcontents
+\clearpage
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+
+library(knitr)
+```
+
+# Work
+## BESTMAP
+
+## AgLand
+
+## Admin
+
+# Personal
+## Routine
+
+## Cards
+
+## Life stuff
