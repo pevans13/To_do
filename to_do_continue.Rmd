@@ -23,10 +23,26 @@ library(knitr)
 
 # Work
 ## BESTMAP
+### General assembly
+- Create slides stating work done so far
+
+### Crop yield
+- Emailed Luca and John about crop yield - waiting to hear back
 
 ## AgLand
+### Carbon tool
+- Talk to Richard about C contacts (JMB suggested: Chris Evans/ CSS/ Pete Henrys (aboveground C stocks)/ Pete Levy/ Pete Smith/ Richard Pywell)
+- create a document about the possible ES, and then circulate - include validation data
+- Keep checking for Nathan Fox publications for recreation/ tourism methods
+- Quiz for 16th November
 
 ## Admin
+### RA time
+- Check out SDM courses
+- Get InVEST Python working on work laptop
+- Finish research interests on prolife
+- Update LinkedIn
+
 
 # Personal
 ## Routine
@@ -34,3 +50,7 @@ library(knitr)
 ## Cards
 
 ## Life stuff
+
+## Non-CEH Work
+- Contact Ainara re QBETER
+- Contact Mark re Novgorod
